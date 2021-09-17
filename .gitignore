@@ -1,0 +1,16 @@
+node_modules
+types
+package-lock.json
+
+#Hardhat files
+cache
+artifacts
+
+# hardhat.config.ts
+
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
